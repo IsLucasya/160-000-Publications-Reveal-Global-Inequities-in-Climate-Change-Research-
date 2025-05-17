@@ -13,4 +13,4 @@
 - Scientific research efficiency：Calculate the scientific research efficiency of various countries around the world based on the number of researchers and the total number of research projects.
 - Verify the effectiveness of deepseek in national identification:Verify the accuracy of the national data obtained through the use of large language models
 ## Analysis of Research Categories：Conduct a statistical analysis of the categories related to the impact, mitigation, and adaptation of climate change
-
+![image](https://github.com/user-attachments/assets/7f1f20e3-c829-4629-b007-b9dcec88695a)
